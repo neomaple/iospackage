@@ -13,7 +13,18 @@
 					<key>url</key>
 					<string>https://github.com/neomaple/iospackage/raw/master/bvapp.ipa</string>
 				</dict>
-				
+				<dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://raw.githubusercontent.com/neomaple/iospackage/master/img57.png</string><!--修改这里-->
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>url</key>
+                    <string>https://raw.githubusercontent.com/neomaple/iospackage/master/img512.png</string><!--修改这里-->
+                </dict>
 			</array>
 			<key>metadata</key>
 			<dict>
