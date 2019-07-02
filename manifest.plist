@@ -27,16 +27,18 @@
                 </dict>
 			</array>
 			<key>metadata</key>
+
 			<dict>
 				<key>bundle-identifier</key>
 				<string>com.bvapp</string>
 				<key>bundle-version</key>
-				<string>版本号</string>
-				<key>v1.0</key>
+				<string>v1.0</string>
+				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>国彩福包</string>
+				<string>应用名称</string>
 			</dict>
+
 		</dict>
 	</array>
 </dict>
